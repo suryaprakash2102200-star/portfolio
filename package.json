@@ -1,5 +1,5 @@
 {
-  "name": "iridescent-magnetospheree",
+  "name": "iridescent-magnetosphere",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,7 +15,7 @@
     "framer-motion": "^12.23.25",
     "gsap": "^3.13.0",
     "lucide-react": "^0.555.0",
-    "next": "16.0.6",
+    "next": "^16.0.8",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "three": "^0.181.2"
@@ -29,4 +29,3 @@
     "tailwindcss": "^4.1.17"
   }
 }
-
